@@ -23,3 +23,5 @@ SparkR-pkg.Rproj
 # Eclipse Meta Files
 .project
 .classpath
+.idea/
+*.iml
